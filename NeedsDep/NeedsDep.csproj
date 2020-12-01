@@ -13,5 +13,8 @@
     <AdditionalFiles Include="empty.txt" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FSharp.Core" Version="5.0.0" />
+  </ItemGroup>
 
 </Project>
